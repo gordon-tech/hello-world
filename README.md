@@ -1,3 +1,4 @@
 # hello-world
 
-教程实验
+here is Gordon,
+this repository is created for learning how to use github.
